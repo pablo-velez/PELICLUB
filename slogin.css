@@ -75,7 +75,7 @@ section form input{
 section form input[type='submit']{
     margin-top: 1.5em;
     background-color: #ff0000;
-    color: #fff;
+    color: #ffffff;
     font-family: var(--font-mono);
     transition: var(--transition);
 }
@@ -91,4 +91,8 @@ section p{
 section p a{
     text-decoration: none;
     color: #fafafa;
+}
+#ingreso:hover {
+    background-color: #fff;
+    color: black;
 }
